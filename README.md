@@ -7,7 +7,9 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github.com/mhorod/chess/raw/main/logo.png" width=150/>
+  <a href="https://github.com/mhorod/chess">
+    <img src="https://github.com/mhorod/chess/raw/main/logo.png" width=150/>
+  </a>
 <p>
   Chess, Checkers, and Minesweeper in one!
   
@@ -17,7 +19,9 @@
 </p>
 </td>
 <td valign="top" width="50%">
-<img src="https://github.com/mhorod/tanuki/raw/main/logo.png" width=150/>
+  <a href="https://github.com/mhorod/tanuki">
+    <img src="https://github.com/mhorod/tanuki/raw/main/logo.png" width=150/>
+  </a>
 <p>
 Tanuki - mock-up of a programming contests website.
 Created using Postgres, Deno, Typescript, Tailwind, and Docker as a team project for Data Engineering.
@@ -28,7 +32,9 @@ I managed the tech stack and runtime environment, and built server-side componen
 </tr>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github.com/mhorod/sokoban/blob/main/sokoban.png?raw=true" width=150/>
+  <a href="https://github.com/mhorod/sokoban">
+    <img src="https://github.com/mhorod/sokoban/blob/main/sokoban.png?raw=true" width=150/>
+  </a>
 <p>
   Sokoban - remake of a popular game.
   
@@ -36,7 +42,9 @@ I managed the tech stack and runtime environment, and built server-side componen
 </p>
 </td>
 <td valign="top" width="50%">
-<img src="https://github.com/mhorod/duh/blob/main/duh.png" width=100/>
+  <a href="https://github.com/mhorod/duh">
+    <img src="https://github.com/mhorod/duh/blob/main/duh.png" width=100/>
+  </a>
 <p>
   Duh - small compiler of a lisp-inspired imperative language to an assembly-like PMC language used on Programming Basics course.
   
