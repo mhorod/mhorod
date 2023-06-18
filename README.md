@@ -52,6 +52,16 @@ I managed the tech stack and runtime environment, and built server-side componen
 </p>
 </td>
 </tr>
+  <tr> 
+    <td valign="top" width="50%">
+      <p>
+        battleship-rl - Playing the Battleship game with Neural Networks, Reinforcement Learning, and some heuristics.
+
+Made using numpy, matplotlib, tensorflow, and pygame as a team project for Probabilistic Methods for Machine Learning course.
+      </p>
+    </td>
+    <td valign="top" width="50%"> </td>
+  </tr>
 </table>
 
 
